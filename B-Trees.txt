@@ -1,0 +1,17 @@
+BST (left smaller than current, right bigger than current) problem:
+Input is sorted:
+5
+ \
+  6
+   \
+    7
+     \
+      8
+       \
+        9
+   
+search: O(n)
+
+
+B-Trees solve that: when adding an element adjusts the tree. Height of the tree is always O(log n), thus we worst case is O(log n)
+
