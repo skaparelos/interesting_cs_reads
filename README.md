@@ -9,3 +9,5 @@
 [(coding) print paths in 2D array](http://algorithms.tutorialhorizon.com/print-all-paths-from-top-left-to-bottom-right-in-two-dimensional-array/)
 
 [(coding) real time multiplayer HTML5](http://buildnewgames.com/real-time-multiplayer/)
+
+[(Scaling) How they've scaled Reddit](https://www.youtube.com/playlist?list=PLVi1LmRuKQ0NINQfjKLVen7J2lZFL35wP)
